@@ -1,0 +1,29 @@
+body {
+    background-color: aquamarine;
+}
+
+tr {
+    text-align: center;
+}
+
+th {
+    background-color: seagreen;
+    color: white;
+}
+
+td { 
+    background-color: lightseagreen;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 40px;
+    color: darkred;
+    padding: 20px;
+}
+
+h2 { 
+    font-size: 25px;
+    color: darkred;
+    padding: 20px;
+}
